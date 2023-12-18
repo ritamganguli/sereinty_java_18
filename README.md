@@ -190,3 +190,4 @@ mvn serenity:aggregate
 
 
 # sereinty_java_18
+# sereinty_java_18_proj
